@@ -1,0 +1,6 @@
+{
+  "name": "粒子交互手势画布",
+  "description": "A highly interactive physics particle sandbox featuring custom text morphing, touch gravity grids, neon trails, and synthesized audio wave feedback.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
